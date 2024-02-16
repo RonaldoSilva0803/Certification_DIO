@@ -5,3 +5,12 @@
 ## Documentation
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
+</picture>
+
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
